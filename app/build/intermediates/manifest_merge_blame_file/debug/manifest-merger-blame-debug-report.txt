@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.itca.appmysql"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:7:5-25:19
+14        android:allowBackup="true"
+14-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] C:\Users\Javier420\.gradle\caches\transforms-3\b1fe9740f6c86f0b7649a763c3bf2b85\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.AppMySQL" >
+23-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:13:9-46
+24        <activity
+24-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:14:9-24:20
+25            android:name="com.itca.appmysql.MainActivity"
+25-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:15:13-41
+26            android:exported="true"
+26-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:16:13-36
+27            android:label="@string/app_name"
+27-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:17:13-45
+28            android:theme="@style/Theme.AppMySQL.NoActionBar" >
+28-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:18:13-62
+29            <intent-filter>
+29-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:20:17-69
+30-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:22:17-77
+32-->C:\Users\Javier420\AndroidStudioProjects\AppMySQLCategorias-main\app\src\main\AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>

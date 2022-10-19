@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_q_categorias.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_q_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_qproductos.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_qproductos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_productos.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_categorias.xml",
+        "source": "C:\\Users\\Javier420\\AndroidStudioProjects\\AppMySQLCategorias-main\\app\\src\\main\\res\\layout\\fragment_categorias.xml"
+    }
+]
