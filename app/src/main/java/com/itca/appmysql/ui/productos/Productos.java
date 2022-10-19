@@ -271,7 +271,7 @@ public class Productos extends Fragment {
         lista = new ArrayList<String>();
         lista.add("Seleccione la categoria");
 
-        String url = Setting_VAR.URL_consultaAllCategorias;
+        String url = "";
         StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
                 new Response.Listener<String>() {
                     @Override
